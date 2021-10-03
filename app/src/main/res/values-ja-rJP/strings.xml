@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <resources>
+<string name="app_name">練習1</string>
+<string name="Email">電子メール</string>
+<string name="TypeEmail">メールアドレスを入力してください</string>
+<string name="PWD">パスワード:</string>
+<string name="TypePWD">パスワードを入力してください</string>
+<string name="NewUser">新しいユーザー?</string>
+<string name="Reg"><u>ここに登録</u></string>
+    </resources>
